@@ -198,6 +198,7 @@ namespace snns {
   using namespace ::snns::impl;
 }
 ```
+(I can also do `using ::snns::impl::func;` in libraries where I have other things in `impl`, but I think it's pretty reasonable to instead separate it out so there's a separate namespace for "names I want to pull into the library's main namespace" and "names I need for internal reasons that users IDEs shouldn't suggest when they write `snns::`.")
 
 ## Final notes
 
@@ -238,4 +239,4 @@ At this time I have no intention of even attempting to push on that, but it seem
 
 - Howard Hinnant, whose 2012 answer to a [stackoverflow question](https://stackoverflow.com/a/9319060) about `using std::swap` started me down this path
 - Matt Godbolt for providing us with [Compiler Explorer](https://godbolt.org)
-- the regulars on /r/cpp_questions [https://www.reddit.com/r/cpp_questions/]
+- the regulars on [/r/cpp_questions](https://www.reddit.com/r/cpp_questions/)
