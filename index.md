@@ -1,3 +1,9 @@
-hello world
+Also found as
 
-[more](more.txt)
+- [@SRNissen on github](github.com/SRNissen/)
+- [@SRNissen twitter](https:://www.twitter.com/SRNissen/)
+- [SRNissen on linkedin](https://www.linkedin.com/in/srnissen/)
+
+# Software
+
+[Taming argument-dependent lookup](https://srnissen.dk/taming_argument_dependent_lookup)
