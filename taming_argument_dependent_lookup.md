@@ -1,5 +1,4 @@
-@SRNissen on [github](github.com/SRNissen/) and [twitter](https:://www.twitter.com/SRNissen)
-
+Contact info on [srnissen.dk](https://srnissen.dk/)
 
 # Taming argument-dependent lookup
 
