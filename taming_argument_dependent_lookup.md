@@ -1,4 +1,4 @@
-Contact info on [srnissen.dk](https://srnissen.dk/)
+Back to [srnissen.dk](https://srnissen.dk/)
 
 # Taming argument-dependent lookup
 
