@@ -177,7 +177,7 @@ int main() {
 
 Now, `user::run()` prints `122twice`.
 
-Side-by-side on godbolt: [https://godbolt.org/z/jKqK4Wasq](https://godbolt.org/z/jKqK4Wasq)
+Side-by-side on godbolt: [https://godbolt.org/z/PGPPcMYa1](https://godbolt.org/z/PGPPcMYa1)
 
 ## The technique
 
