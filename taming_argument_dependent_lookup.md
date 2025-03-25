@@ -46,7 +46,7 @@ To make this work, C++ has ADL. For every function call you write in your source
 
 Comparing `a` with `a` yields `a`, so we should see `3`. Unfortunately, the program prints `bbb`.
 
-Function lookup for line 32 goes something like:
+Function lookup for line 20 goes something like:
 
 1. `int lib::min(lib::S, lib::S)` is found because it is introduced by explicit name on line 18.
 2. `T const& std::min(T const&, T const&)` is found because the type of `a`, `std::string`, is from `namespace std`.
