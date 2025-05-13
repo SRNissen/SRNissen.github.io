@@ -6,4 +6,5 @@ Also found as
 
 # Software
 
-[Taming argument-dependent lookup](https://srnissen.dk/taming_argument_dependent_lookup)
+- [Taming argument-dependent lookup](https://srnissen.dk/taming_argument_dependent_lookup)
+- [C++ is different from languages you're used to](https://srnissen.dk/cpp_is_different)
