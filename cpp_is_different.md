@@ -17,7 +17,7 @@ Some things *can* have good standardized solutions, but they cannot be turned in
 
 ## The footnote:
 
-Not all the weird things are weird for a good reason, some parts of C++ *are* just bad - it's an old language, built on top of an even older language. But they didn't know better and neither did you.
+Not all weird things are weird for good reasons, some parts of C++ *are* just bad - it's an old language, built on top of an even older language. But they didn't know better and neither did you.
 
 ## The practice problem:
 
