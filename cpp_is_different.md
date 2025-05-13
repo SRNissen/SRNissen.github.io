@@ -1,9 +1,7 @@
 # C++ is different from languages you're used to
 *Unless the language you're used to is C/Rust/etc.*
 
-This article does not teach C++ in all of its glory.
-
-This article teaches *one specific insight* that will help you as you continue to learn all of the rest.
+This article does not teach C++ in all of its glory. Rather, it teaches *one specific insight* that will help you as you continue to learn all of the rest.
 
 One short text, one footnote, one practice problem.
 
@@ -15,7 +13,7 @@ And you run into some annoyance where C++ is weird, and you think "why not fix t
 
 That's it, that's the insight. C++ will expect you to control many things you don't actually need to use for solving your problem today, because *somebody* will need them to solve *some* problem *some* day.
 
-Though some things *can* have good standardized solutions, they just cannot be built-in solutions that everybody have to use. Those go in the standard library.
+Some things *can* have good standardized solutions, but they cannot be turned into built-in solutions that everybody have to use. They have to go in the standard library, as one solution among many.
 
 ## The footnote:
 
